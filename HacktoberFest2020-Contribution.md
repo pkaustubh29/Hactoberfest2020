@@ -10,4 +10,4 @@ Write Your Name as a Contributer
 ```
 ---
 <!--Start writing Name from here-->
-[DSC-COEA-Ambajogai](https://github.com/DSC-COEA-Ambajogai)
+kaustubh purohit (https://github.com/pkaustubh29)
